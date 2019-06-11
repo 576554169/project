@@ -1,0 +1,23 @@
+模板引擎
+ejs（高效的javascript模板引擎）  art-template  jade 代码不友好=》 pug swig
+什么是模板引擎
+    页面数据分离（从后端读取到的数据和文件映射在html页面）
+    生成最终的视图文档
+ejs =》模板引擎
+    特性：高效（速度快）
+    1.快速编译（compiler）和输出（<%=%>）
+    2.简洁的模板标签（%%）
+    3.引入模板片段include包含
+    4.同时支持服务器端（node）和浏览器环境（brower）
+    5.兼容express视图系统
+使用：
+    包管理工具：npm cnpm nrm
+
+    下载环境
+        生产环境  production   dependence  --save -s
+        开发环境  dev production  devdependence  --save -dev  -D
+
+        npm install esj --save
+        什么时候把包下载到生产环境
+初始化   npm init自定义
+        npm init -y  默认                                                                                                                                                                                                                                          

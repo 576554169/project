@@ -1,0 +1,9 @@
+文档 API
+express
+简介：
+基于node封装的上层服务框架，提供了简便的API和功能方法，主要内容有路由，中间件
+同时 提供了更多http工具，使得动态渲染视图更加方便
+
+
+npm  install express  --save
+npm  install body-parser  --save

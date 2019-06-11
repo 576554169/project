@@ -1,0 +1,32 @@
+git = github
+名称：代码管理工具
+项目：
+
+负责：qq  yy
+
+冲突  ==》  代码管理工具  svn 鼠标操作即可  本地区  服务区
+checkout 检出
+commit 提交
+pull  拉取
+
+git
+
+本地区  暂存区 服务区
+
+git==》github
+码云==》svn和git
+git
+可视化：soucetree
+命令行：git gui here   可视化工具  git base here 命令 cmd
+branch 分支
+
+
+
+git init项目初始化
+git status 查看项目状态
+git add .添加所有文件
+git config --global user.email ""
+git config --global user.name "用户名"
+git commit -m "rer" 提交到暂存区
+git remote add origin 仓库地址 链接到
+git push -u origin master 推送到远端
